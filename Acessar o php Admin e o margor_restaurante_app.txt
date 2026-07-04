@@ -1,5 +1,5 @@
 Acessar o php Admin: http://localhost/phpmyadmin/
 
-Acesso ao restaurante (margor 1.0): http://localhost/margor%201.0/index.php
+Acesso ao restaurante (margor_restaurante_app): http://localhost/margor_restaurante_app
 
 Para que isso tudo funcione, precisa ligar mysql e apache no XAMPP.
